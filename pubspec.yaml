@@ -1,6 +1,6 @@
 name: test_game
 description: >
-  Highly scalable Flutter starter kit, designed with an optimal predefined structure  and inclusive of libraries that are widely applicable in numerous use cases. #magic___^_^___line
+  test number game
 # Prevent accidental publishing to pub.dev.
 publish_to: "none"
 

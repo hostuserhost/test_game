@@ -1,5 +1,10 @@
-# Sizzle Starter
+# Test Number Game
 
-Sizzle is a template for Flutter projects with a focus on simplicity, scalability and testability. It features a solid layered architecture, efficient dependencies management, set of useful utilities and a bunch of other goodies.
+## Getting Started
+### Prerequisites
+- Flutter 3.24.0
+- Dart 3.5.0
 
-For documentation and more details, please visit [sizzle.lazebny.io](https://sizzle.lazebny.io).
+### Installing
+1. Clone the repository
+2. Run `flutter pub get
