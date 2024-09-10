@@ -1,12 +1,12 @@
 import 'package:clock/clock.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:sizzle_starter/src/core/constant/config.dart';
-import 'package:sizzle_starter/src/core/utils/refined_logger.dart';
-import 'package:sizzle_starter/src/feature/initialization/logic/error_tracking_manager.dart';
-import 'package:sizzle_starter/src/feature/initialization/model/dependencies_container.dart';
-import 'package:sizzle_starter/src/feature/settings/bloc/app_settings_bloc.dart';
-import 'package:sizzle_starter/src/feature/settings/data/app_settings_datasource.dart';
-import 'package:sizzle_starter/src/feature/settings/data/app_settings_repository.dart';
+import 'package:test_game/src/core/constant/config.dart';
+import 'package:test_game/src/core/utils/refined_logger.dart';
+import 'package:test_game/src/feature/initialization/logic/error_tracking_manager.dart';
+import 'package:test_game/src/feature/initialization/model/dependencies_container.dart';
+import 'package:test_game/src/feature/settings/bloc/app_settings_bloc.dart';
+import 'package:test_game/src/feature/settings/data/app_settings_datasource.dart';
+import 'package:test_game/src/feature/settings/data/app_settings_repository.dart';
 
 /// {@template composition_root}
 /// A place where all dependencies are initialized.
