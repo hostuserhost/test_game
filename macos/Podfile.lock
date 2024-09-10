@@ -1,0 +1,80 @@
+PODS:
+  - cupertino_http (0.0.1):
+    - FlutterMacOS
+  - FlutterMacOS (1.0.0)
+  - package_info_plus (0.0.1):
+    - FlutterMacOS
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - Sentry/HybridSDK (8.36.0)
+  - sentry_flutter (8.9.0):
+    - Flutter
+    - FlutterMacOS
+    - Sentry/HybridSDK (= 8.36.0)
+  - shared_preferences_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - "sqlite3 (3.46.1+1)":
+    - "sqlite3/common (= 3.46.1+1)"
+  - "sqlite3/common (3.46.1+1)"
+  - "sqlite3/dbstatvtab (3.46.1+1)":
+    - sqlite3/common
+  - "sqlite3/fts5 (3.46.1+1)":
+    - sqlite3/common
+  - "sqlite3/perf-threadsafe (3.46.1+1)":
+    - sqlite3/common
+  - "sqlite3/rtree (3.46.1+1)":
+    - sqlite3/common
+  - sqlite3_flutter_libs (0.0.1):
+    - FlutterMacOS
+    - "sqlite3 (~> 3.46.0+1)"
+    - sqlite3/dbstatvtab
+    - sqlite3/fts5
+    - sqlite3/perf-threadsafe
+    - sqlite3/rtree
+
+DEPENDENCIES:
+  - cupertino_http (from `Flutter/ephemeral/.symlinks/plugins/cupertino_http/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+  - package_info_plus (from `Flutter/ephemeral/.symlinks/plugins/package_info_plus/macos`)
+  - path_provider_foundation (from `Flutter/ephemeral/.symlinks/plugins/path_provider_foundation/darwin`)
+  - sentry_flutter (from `Flutter/ephemeral/.symlinks/plugins/sentry_flutter/macos`)
+  - shared_preferences_foundation (from `Flutter/ephemeral/.symlinks/plugins/shared_preferences_foundation/darwin`)
+  - sqlite3_flutter_libs (from `Flutter/ephemeral/.symlinks/plugins/sqlite3_flutter_libs/macos`)
+
+SPEC REPOS:
+  trunk:
+    - Sentry
+    - sqlite3
+
+EXTERNAL SOURCES:
+  cupertino_http:
+    :path: Flutter/ephemeral/.symlinks/plugins/cupertino_http/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+  package_info_plus:
+    :path: Flutter/ephemeral/.symlinks/plugins/package_info_plus/macos
+  path_provider_foundation:
+    :path: Flutter/ephemeral/.symlinks/plugins/path_provider_foundation/darwin
+  sentry_flutter:
+    :path: Flutter/ephemeral/.symlinks/plugins/sentry_flutter/macos
+  shared_preferences_foundation:
+    :path: Flutter/ephemeral/.symlinks/plugins/shared_preferences_foundation/darwin
+  sqlite3_flutter_libs:
+    :path: Flutter/ephemeral/.symlinks/plugins/sqlite3_flutter_libs/macos
+
+SPEC CHECKSUMS:
+  cupertino_http: 1d506209e339211efa0764caa7b2de4bc55b6818
+  FlutterMacOS: 8f6f14fa908a6fb3fba0cd85dbd81ec4b251fb24
+  package_info_plus: fa739dd842b393193c5ca93c26798dff6e3d0e0c
+  path_provider_foundation: 2b6b4c569c0fb62ec74538f866245ac84301af46
+  Sentry: f8374b5415bc38dfb5645941b3ae31230fbeae57
+  sentry_flutter: 0eb93e5279eb41e2392212afe1ccd2fecb4f8cbe
+  shared_preferences_foundation: fcdcbc04712aee1108ac7fda236f363274528f78
+  sqlite3: 0bb0e6389d824e40296f531b858a2a0b71c0d2fb
+  sqlite3_flutter_libs: 5ca46c1a04eddfbeeb5b16566164aa7ad1616e7b
+
+PODFILE CHECKSUM: 236401fc2c932af29a9fcf0e97baeeb2d750d367
+
+COCOAPODS: 1.15.2
